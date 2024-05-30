@@ -1,0 +1,9 @@
+{
+	"name": "hariNewDf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87b73230-c59f-4246-812e-b17cb69c3e75",
+		"tenantId": "6c3e6b94-3cb6-436b-bfe8-ce8661490ec0"
+	}
+}
