@@ -23,6 +23,12 @@
 				"type": "string"
 			}
 		},
+		"variables": {
+			"branchtag": {
+				"type": "String",
+				"defaultValue": "dev"
+			}
+		},
 		"annotations": [],
 		"lastPublishTime": "2024-05-27T07:45:20Z"
 	},
